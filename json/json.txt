@@ -1,0 +1,8 @@
+{
+ 
+"Datos": {"Legajo": "69857",
+"Nombre": "Tiziana", 
+"Apellido": "Rassow",
+"Carreras": [2,3],
+"Materias": [1,2]}, "materias" :
+[{"IdMateria":"1", "Nombre":"Analisis Matematico"},{"IdMateria":"2", "Nombre":"Simulacion"}], "carreras":[{"IdCarrera": 1, "Nombre":"Ingenieria en sistemas de informacion", "IdCarrera": 2, "Nombre":  "Ingenieria Mecanica", "IdCarrera" : 3, "Nombre" : "Ingenieria Civil"}]}
