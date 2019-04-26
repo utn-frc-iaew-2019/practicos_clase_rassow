@@ -5,6 +5,11 @@
 
 <channel>
 
+<title> H O R O S C O P O </title>
+
+<link> http://localhost:8080/RSS/prueba.html </link>
+
+<description> ¡Recibe todas las novedades de tu horoscopo y adelantate al futuro!</description>
 
 <item>
 
@@ -12,9 +17,30 @@
 
 <link> https://horoscoponegro.com/ </link>
 
-<description> ¡Recibe todas las novedades de tu horoscopo y adelantate al futuro!</descripcion>
+<description> ¡Recibe todas las novedades de tu horoscopo y adelantate al futuro!</description>
 
 </item>
+
+<item>
+
+<title> Horoscopo ARIES </title>
+
+<link> https://horoscoponegro.com/aries/ </link>
+
+<description> ¡Recibe todas las novedades de tu horoscopo y adelantate al futuro!</description>
+
+</item>
+
+<item>
+
+<title> Horoscopo PISCIS </title>
+
+<link> https://horoscoponegro.com/aries/ </link>
+
+<description> ¡Recibe todas las novedades de tu horoscopo y adelantate al futuro!</description>
+
+</item>
+
 
 </channel>
 
